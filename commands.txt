@@ -3,4 +3,4 @@ git commit -m "message"
 git push
 
 add git repo to local repo = git remote add origin <repo_url>
-// git push -u origin master
+git push --set-upstream origin <branch_name>
